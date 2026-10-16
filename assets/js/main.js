@@ -1,7 +1,7 @@
 /**
  * ===================================================================
  * PORTOFOLIO KREATIF SISWA XI DKV (DESAIN KOMUNIKASI VISUAL)
- * Author: Raditya Putra Pratama (Radit.DKV)
+ * Author: Andhra Dovyzioso (Andhra.DKV)
  * Interactive Engine: Gallery Filtering, Modals, Mockup Studio, Lo-Fi Audio
  * ===================================================================
  */
